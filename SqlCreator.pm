@@ -45,7 +45,7 @@ sub createInsertSql{
 	return $sql;
 }
 
-#create delete sql c
+#create delete sql 
 #createDeleteSql(table , condition) 
 #first parameter table name 
 #second parameter sql condition
